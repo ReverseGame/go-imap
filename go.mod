@@ -1,4 +1,4 @@
-module github.com/ReverseGame/go-imap
+module github.com/emersion/go-imap
 
 go 1.13
 
