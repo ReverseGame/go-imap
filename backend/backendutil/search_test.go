@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/emersion/go-imap"
+	"github.com/ReverseGame/go-imap"
 	"github.com/emersion/go-message"
 )
 
